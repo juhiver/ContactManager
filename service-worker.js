@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/juhiver/ContactManager/precache-manifest.f77d66e3165b4547acd03536dc40c82c.js"
+  "/ContactManager/precache-manifest.9292c0c321aa95a619236aaa97dcb42d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/juhiver/ContactManager/index.html", {
+workbox.routing.registerNavigationRoute("/ContactManager/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

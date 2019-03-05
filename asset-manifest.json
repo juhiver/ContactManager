@@ -1,15 +1,15 @@
 {
-  "main.css": "/juhiver/ContactManager/static/css/main.dcdb2b05.chunk.css",
-  "main.js": "/juhiver/ContactManager/static/js/main.30860e53.chunk.js",
-  "main.js.map": "/juhiver/ContactManager/static/js/main.30860e53.chunk.js.map",
-  "static/css/1.db3cc424.chunk.css": "/juhiver/ContactManager/static/css/1.db3cc424.chunk.css",
-  "static/js/1.26f948e9.chunk.js": "/juhiver/ContactManager/static/js/1.26f948e9.chunk.js",
-  "static/js/1.26f948e9.chunk.js.map": "/juhiver/ContactManager/static/js/1.26f948e9.chunk.js.map",
-  "runtime~main.js": "/juhiver/ContactManager/static/js/runtime~main.11063342.js",
-  "runtime~main.js.map": "/juhiver/ContactManager/static/js/runtime~main.11063342.js.map",
-  "static/css/1.db3cc424.chunk.css.map": "/juhiver/ContactManager/static/css/1.db3cc424.chunk.css.map",
-  "static/css/main.dcdb2b05.chunk.css.map": "/juhiver/ContactManager/static/css/main.dcdb2b05.chunk.css.map",
-  "index.html": "/juhiver/ContactManager/index.html",
-  "precache-manifest.f77d66e3165b4547acd03536dc40c82c.js": "/juhiver/ContactManager/precache-manifest.f77d66e3165b4547acd03536dc40c82c.js",
-  "service-worker.js": "/juhiver/ContactManager/service-worker.js"
+  "main.css": "/ContactManager/static/css/main.dcdb2b05.chunk.css",
+  "main.js": "/ContactManager/static/js/main.cb55d3fa.chunk.js",
+  "main.js.map": "/ContactManager/static/js/main.cb55d3fa.chunk.js.map",
+  "static/css/1.db3cc424.chunk.css": "/ContactManager/static/css/1.db3cc424.chunk.css",
+  "static/js/1.26f948e9.chunk.js": "/ContactManager/static/js/1.26f948e9.chunk.js",
+  "static/js/1.26f948e9.chunk.js.map": "/ContactManager/static/js/1.26f948e9.chunk.js.map",
+  "runtime~main.js": "/ContactManager/static/js/runtime~main.fba7f2b2.js",
+  "runtime~main.js.map": "/ContactManager/static/js/runtime~main.fba7f2b2.js.map",
+  "static/css/1.db3cc424.chunk.css.map": "/ContactManager/static/css/1.db3cc424.chunk.css.map",
+  "static/css/main.dcdb2b05.chunk.css.map": "/ContactManager/static/css/main.dcdb2b05.chunk.css.map",
+  "index.html": "/ContactManager/index.html",
+  "precache-manifest.9292c0c321aa95a619236aaa97dcb42d.js": "/ContactManager/precache-manifest.9292c0c321aa95a619236aaa97dcb42d.js",
+  "service-worker.js": "/ContactManager/service-worker.js"
 }
